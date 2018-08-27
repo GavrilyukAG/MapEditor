@@ -1,0 +1,1 @@
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/cmake-build/CMakeFiles/MapEditor.dir

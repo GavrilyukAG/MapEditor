@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Button.cpp
+Button.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Button.h
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Button.h
+SFML/Graphics.hpp
+-
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Tile.cpp
+Tile.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Tile.h
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Tile.h
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Window.cpp
+Window.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Window.h
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Window.h
+SFML/Graphics.hpp
+-
+
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/main.cpp
+SFML/Graphics.hpp
+-
+vector
+-
+fstream
+-
+Window.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Window.h
+Button.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Button.h
+Tile.h
+/home/alexandr/Рабочий стол/PacmanAndroid/map-editor/Tile.h
+
